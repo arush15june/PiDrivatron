@@ -11,7 +11,7 @@ Autonomous RC Car powered by a Raspberry Pi And Machine Learning!
 
 # Requirements
 
-- Raspberry Pi (3 Preffered)
+- Raspberry Pi (3 Preferred)
 - Raspberry Pi Camera (I chose one of the chinese 5MP modules;it shouldn't matter much because we are gonna use a downscaled monochrome image for training)
 - Motors and Tires (4 Motors and 4 Tires; Totally your choice)
 - Motor Drivers (2x L293D IC's should suffice for our task.)
